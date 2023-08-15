@@ -1,6 +1,6 @@
 # React Components Basics Lab
 
-## Learning Goals
+## Learning Goals 
 
 - Write basic React components
 - Return one React component from another component
